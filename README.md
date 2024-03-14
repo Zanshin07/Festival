@@ -1,4 +1,4 @@
-# MakeImage
+# Festival
 ハロウィンを楽しむことができる画像デコレーションアプリ
 ## 対象OS
 iOS
