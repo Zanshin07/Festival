@@ -1,7 +1,9 @@
 # Festival
 ハロウィンを楽しむことができる画像デコレーションアプリ
 ## スクリーンショット
-![Simulator Screenshot - iPhone 15 - 2024-03-14 at 17 43 06](https://github.com/Zanshin07/Festival/assets/139198337/5bfd65d3-274e-41b6-a2d5-19eff0648a53)
+![Simulator Screenshot - iPhone 15 - 2024-03-14 at 17 43 06](https://github.com/Zanshin07/Festival/assets/139198337/9d52b4f5-c01a-4568-9971-2b53356846f0)
+
+
 ## 対象OS
 iOS 16.4
 ## 開発環境
